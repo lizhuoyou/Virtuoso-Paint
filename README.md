@@ -5,4 +5,6 @@ https://www.pygame.org/wiki/GettingStarted
 
 Feel free to play with it and change it! However, if you'd like to publish it, please contact me before doing so.
 
+My email: mrlizhuoyou@gmail.com
+
 Enjoy!
